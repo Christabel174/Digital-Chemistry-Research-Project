@@ -26,6 +26,6 @@ The dataset used in this project is stored in .mat format and includes multiple 
 
 Joshua Edel: joshua.edel@imperial.ac.uk
 
-Alex Ivanov: alex.ivanov@imperial.ac.uk
+Aleksandar Ivanov: alex.ivanov@imperial.ac.uk
 
 This project is licensed under the MIT License and a part of Imperial College London.
