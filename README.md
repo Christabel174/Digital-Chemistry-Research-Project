@@ -19,6 +19,9 @@ Requirements:
 
 You can install the necessary packages using pip: pip install numpy scipy pywt matplotlib tensorflow
 
+**Conclusions**   
+This project demonstrates a robust methodology for processing and analysing signal data using wavelet transforms and a deep learning model. The preliminary work focused on training a CNN for signal pattern classification. Key findings include the effective application of DWT for noise reduction and signal reconstruction. Additionally, we explored the use of moving standard deviation thresholds to classify significant signal features. These approaches facilitate advanced signal analysis and can be leveraged for further research and development within nanopore sequencing domains.      
+
 The dataset used in this project is stored in .mat format and includes multiple signal records. For access to the dataset or any data-related inquiries, please contact:
 
 Joshua Edel: joshua.edel@imperial.ac.uk
